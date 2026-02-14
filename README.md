@@ -26,4 +26,4 @@ might conflict with other emote mods idk
 made by leaven13
 
 if it breaks something let me know
--# i should prbly add a config file in a potential future version, just use the decompiled version if u wanna add trigger words :|
+i should prbly add a config file in a potential future version, just use the decompiled version if u wanna add trigger words :|
